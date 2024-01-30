@@ -1,5 +1,11 @@
 # NUS-SDS-Datathon-Singlife
 
+## Instructions to Run the Notebook
+1. Please run the import statements
+2. Please also run all the methods under the section Data Cleaning
+3. Please run the load_model method to load the model
+4. Please run the testing_hidden_data method to get the predictions
+
 ## Dataset Handling Guidelines
 - The dataset is provided by Singlife. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
 - The dataset must not be shared with anyone outside of the competition, or uploaded to any repositories / cloud storage.
