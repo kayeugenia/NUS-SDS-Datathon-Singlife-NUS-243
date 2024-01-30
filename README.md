@@ -1,10 +1,11 @@
 # NUS-SDS-Datathon-Singlife
 
 ## Instructions to Run the Notebook
-1. Please run the import statements
-2. Please also run the code under the Exploratory Data Analysis (to get the filepath) and all the methods under Data Cleaning sections
-3. Please run the load_model method to load the model
-4. Please run the testing_hidden_data method to get the predictions
+1. Please ensure that you have uploaded catB_train.parquet under the Data folder
+2. Please run the import statements
+3. Please also run the code under the Exploratory Data Analysis (to get the filepath) and all the methods under Data Cleaning sections
+4. Please run the load_model method to load the model
+5. Please run the testing_hidden_data method to get the predictions
 
 ## Dataset Handling Guidelines
 - The dataset is provided by Singlife. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
