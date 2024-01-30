@@ -2,7 +2,7 @@
 
 ## Instructions to Run the Notebook
 1. Please run the import statements
-2. Please also run all the methods under the section Data Cleaning
+2. Please also run the code under the Exploratory Data Analysis (to get the filepath) and all the methods under Data Cleaning sections
 3. Please run the load_model method to load the model
 4. Please run the testing_hidden_data method to get the predictions
 
